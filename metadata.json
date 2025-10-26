@@ -1,0 +1,5 @@
+{
+  "name": "Decision Making Toolkit",
+  "description": "An interactive web application providing tools for 12 different decision-making models, enhanced with AI assistance from Gemini. Save your progress locally and make better decisions.",
+  "requestFramePermissions": []
+}
